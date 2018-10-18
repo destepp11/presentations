@@ -1,0 +1,3 @@
+# Enemy State Machines: Developing Reusable Components to Quickly Construct Mutations of Enemies
+
+Developing enemies for video games can be a daunting task if you've never done it before, even in 2D. Taking the time to create modular behaviors upfront seemingly will slow down your development efforts up front but will be testable, debuggable, and configurable in the latter stages. In this session, we will look at and discuss some tightly coupled enemy behaviors and see how we can refactor them to loosely coupled systems that will help level up your game. We will be using the Unity engine but the same patterns are applicable in any engine or even to business domains.

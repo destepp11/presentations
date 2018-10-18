@@ -1,0 +1,3 @@
+# Let's Get JAMming: An Introduction to Static Site Generators
+
+Static site generators are awesome. In under an hour you can build your blog, project documentation, or even a very basic eCommerce site. We’ll explore the JAMstack and bare bones implementations of these types of sites. We'll build a couple of sites with different site generators and show off automated deployment with GitHub hooks and Netlify CDN.

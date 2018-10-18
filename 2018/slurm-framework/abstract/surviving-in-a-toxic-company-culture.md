@@ -1,0 +1,3 @@
+# The Slurm Framework: Toxic Company Cultures and How to Survive Them
+
+Believe it or not, a Futurama episode and my experiences have led me to create the *SLURM* Framework which I believe will help you navigate toxic waters of a company's culture. In this talk I provide tips for Sensing the environment, Learning the telltale signs of negative and dangerous behaviors, Understanding how to cope and combat disruptive processes, Refactoring the norms and continuously improving, and when it's time to Move on. Let's open up the floor for a serious conversation about what I think is the single most important aspect of any company: culture.

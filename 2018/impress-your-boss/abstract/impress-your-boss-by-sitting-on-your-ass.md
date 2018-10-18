@@ -1,0 +1,3 @@
+# Impress Your Boss by Sitting on Your Ass: Automating Builds and Deployments
+
+I’m lazy and you can be too! Here’s a secret: Automation is simple. It may seem daunting in the beginning but the truth is you already know how to automate the build and deployment of your applications even if you are manually intervening at each step. Why not just do all this work once and be done with it? Let us demystify how to write build and deployment scripts in the context of a large monolithic application. I’ll walk you through my journey of automating applications and database migrations for .NET and/or Java looking at both the human and technical challenges I encountered.
